@@ -27,7 +27,6 @@ def IQRmethodOutliter(data,columns):
     sb.boxplot(data=data[columns])
     data[columns].hist(bins=30, figsize=(10, 8))
     plt.show()
-    return outliers
 
 def zScoreBaseOutliers(data, columns):
    
