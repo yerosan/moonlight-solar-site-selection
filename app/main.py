@@ -8,9 +8,9 @@ import matplotlib.pyplot as plt
 st.title("Solar Radiation Data Dashboard")
 
 # File paths for the datasets
-benin = "benin-malanville.csv"
-togo = "togo-dapaong_qc.csv"
-sierra_leone = "sierraleone-bumbuna.csv"
+benin = "data/benin-malanville.csv"
+togo = "data/togo-dapaong_qc.csv"
+sierra_leone = "data/sierraleone-bumbuna.csv"
 
 # Load dataset 
 
