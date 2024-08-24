@@ -42,7 +42,7 @@ To use the scripts and notebooks in this repository:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Solar_Radiation_Measurement
+    cd moonlight-solar-site-selection
     ```
 3. Install the required dependencies (if any):
     ```bash
