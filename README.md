@@ -67,4 +67,4 @@ Contributions are welcome! Please feel free to submit issues or pull requests to
 
 ## Contact
 
-For any inquiries or further information, please contact [yerosan].
+For any inquiries or further information, please contact [yerosan](yerosan).
